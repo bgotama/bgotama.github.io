@@ -1,0 +1,22 @@
+baseURL = "https://bgotama.github.io/"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 0
+buildDrafts = false
+buildFuture = false
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[imaging]
+  anchor = "Center"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

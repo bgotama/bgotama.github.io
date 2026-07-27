@@ -1,0 +1,8 @@
+[[main]]
+  name = "Tutorial"
+  pageRef = "tutorials"
+  weight = 10
+[[main]]
+  name = "Kontak"
+  pageRef = "contact"
+  weight = 20

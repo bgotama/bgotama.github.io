@@ -1,0 +1,28 @@
+disabled = false
+locale = "id"
+label = "Bahasa Indonesia"
+weight = 2
+title = "Gotama Research Group"
+
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Tutorial dan materi pengajaran dari Gotama Research Group."
+  copyright = "© 2026 Bangkit Gotama · Gotama Research Group"
+
+[params.author]
+  name = "Bangkit Gotama, Ph.D."
+  image = "img/author.png"
+  imageQuality = 96
+  headline = "Teknik Sistem Proses · Bahan Bakar Rendah Karbon"
+  bio = "Dosen di Institut Teknologi Kalimantan. Halaman ini memuat tutorial dan materi pengajaran berbahasa Indonesia."
+  links = [
+    { email = "mailto:you@itk.ac.id" },
+    { google-scholar = "https://scholar.google.com/citations?user=ZE3xwEcAAAAJ&hl=en" },
+    { orcid = "https://orcid.org/0000-0001-6992-6096" },
+    { scopus = "https://www.scopus.com/authid/detail.uri?authorId=57222153180" },
+    { linkedin = "https://id.linkedin.com/in/bangkit-gotama-a9665555" },
+    { github = "https://github.com/bgotama" },
+  ]
