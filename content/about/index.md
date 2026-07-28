@@ -5,7 +5,7 @@ showAuthor: false
 showReadingTime: false
 ---
 
-I am **Bangkit Gotama**, a lecturer at Institut Teknologi Kalimantan (ITK) and
+I am **Bangkit Gotama**, a lecturer at Chemical Engineering Department (che.itk.ac.id) Institut Teknologi Kalimantan (ITK) and
 the lead of the Gotama Research Group. I hold a Ph.D. in Chemical Engineering
 from the National Taiwan University of Science and Technology (NTUST).
 
@@ -25,4 +25,4 @@ coupling Aspen Plus simulations with multi-objective optimization.
 - **Ph.D.**, Chemical Engineering — NTUST, Taiwan
 - Lecturer — Institut Teknologi Kalimantan, Indonesia
 
-*Replace this text and the profile photo with your own — see the README.*
+
