@@ -20,7 +20,7 @@ title = "Gotama Research Group"
   bio = "Dosen di Institut Teknologi Kalimantan. Halaman ini memuat tutorial dan materi pengajaran berbahasa Indonesia."
   links = [
     { email = "mailto:you@itk.ac.id" },
-    { google-scholar = "https://scholar.google.com/citations?user=ZE3xwEcAAAAJ&hl=en" },
+    { google-scholar = "https://scholar.google.com/citations?user=ZE3xwEcAAAAJ" },
     { orcid = "https://orcid.org/0000-0001-6992-6096" },
     { scopus = "https://www.scopus.com/authid/detail.uri?authorId=57222153180" },
     { linkedin = "https://id.linkedin.com/in/bangkit-gotama-a9665555" },
