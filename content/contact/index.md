@@ -10,6 +10,8 @@ showReadingTime: false
 - **Google Scholar:** [GScholar](https://scholar.google.com/citations?user=ZE3xwEcAAAAJ)
 - **ORCID:** [ORCID](https://orcid.org/0000-0001-6992-6096)
 - **Scopus:** [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222153180)
-- **LinkedIn:** [LinkedIn(https://id.linkedin.com/in/bangkit-gotama-a9665555)
+- **LinkedIn:** [LinkedIn](https://id.linkedin.com/in/bangkit-gotama-a9665555)
 
 For prospective students, please see [Join us](/join/) first.
+
+ITK undergraduates applying for plant design thesis (Tugas Akhir) supervision: use the [Pengajuan Pembimbing Tugas Akhir](/ta/) page, not email.
