@@ -18,8 +18,3 @@ A full and always-current list is on
 - A. Cahyono, **B. Gotama**, V. Verma, T.P. Sopandi, W.-C. Wang, "Integrated process design and techno-economic evaluation of electro-sustainable aviation fuel (e-SAF)." *Applied Energy*, 424, 128439, 2026. [DOI](https://doi.org/10.1016/j.apenergy.2026.128439) (IF: 12.2, ENGINEERING, CHEMICAL, 14/183, Q1)
 
 - **B. Gotama**, T. Halomoan, Y.-Y. Chen, H.-Y. Lee, "Energy saving design and control of side-streams reactive distillation configuration for diphenyl carbonate production process." *Chemical Engineering Research and Design*, 204, 316-329, 2024. [DOI](https://doi.org/10.1016/j.cherd.2024.02.032) (IF: 4.0, ENGINEERING, CHEMICAL, 77/183, Q2)
-
-{{< alert >}}
-**To update:** edit `content/publications/_index.md`, or use the helper script
-`scripts/bib2md.py` to turn a `publications.bib` file into this list. See the README.
-{{< /alert >}}
