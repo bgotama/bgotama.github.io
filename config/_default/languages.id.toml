@@ -14,7 +14,7 @@ title = "Gotama Research Group"
 
 [params.author]
   name = "Bangkit Gotama, Ph.D."
-  image = "author.jpg"
+  image = "img/author.jpg"
   imageQuality = 96
   headline = "Teknik Sistem Proses · Bahan Bakar Rendah Karbon"
   bio = "Dosen di Institut Teknologi Kalimantan. Halaman ini memuat tutorial dan materi pengajaran berbahasa Indonesia."
