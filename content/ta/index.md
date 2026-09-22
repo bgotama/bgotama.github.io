@@ -18,6 +18,13 @@ halaman ini sebelum mengisi formulir di bagian bawah.
 | **Batas waktu** | 23 September 2026, 23.59 WITA |
 | **Waktu pengisian** | ±15–25 menit |
 
+## Tentang SITI
+
+Permohonan pembimbingan di SITI (Sistem Informasi KP/TA FRTI) adalah kewajiban PSTK bagi semua mahasiswa TA, terlepas dari siapa pembimbingnya. Itu bukan ketentuan saya, dan penuhilah sesuai ketentuan yang berlaku.
+
+Formulir di halaman ini terpisah dari SITI dan gunanya seleksi internal saya. Keputusan saya nantinya disampaikan melalui SITI.
+
+
 ## Siapa yang sebaiknya mengajukan
 
 Tiga hal berikut lebih menentukan daripada IPK Anda.
@@ -88,10 +95,10 @@ Satu pengisian per kelompok, dilakukan bersama kedua anggota.
      Blok catatan ini boleh Anda hapus seluruhnya.
      ═══════════════════════════════════════════════════════════════════════ -->
 
-[**→ Buka formulir di tab baru**](GANTI_URL_FORM)
+[**→ Buka formulir di tab baru**](https://docs.google.com/forms/d/e/1FAIpQLSen4Rblua6OqVqzTIwLSJWljwRp3pTFfF-Ck1zc2D4b6Mv1pA/viewform)
 (disarankan bila Anda mengisi dari ponsel)
 
-<iframe src="GANTI_URL_FORM?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0" loading="lazy" title="Formulir Pengajuan Pembimbing Tugas Akhir" style="border:1px solid rgba(128,128,128,.3);border-radius:8px;">Memuat formulir…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSen4Rblua6OqVqzTIwLSJWljwRp3pTFfF-Ck1zc2D4b6Mv1pA/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0" loading="lazy" title="Formulir Pengajuan Pembimbing Tugas Akhir" style="border:1px solid rgba(128,128,128,.3);border-radius:8px;">Memuat formulir…</iframe>
 
 ## Pertanyaan yang sering muncul
 
