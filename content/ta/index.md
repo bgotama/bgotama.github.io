@@ -50,7 +50,7 @@ sanggup Anda penuhi, memilih pembimbing lain adalah keputusan yang wajar dan
 tidak merugikan Anda.
 
 1. **Bimbingan rutin minimal sekali per minggu**, dengan presentasi progres
-   pengerjaan TDPK dalam bentuk PPT atau DOCX. Datang tanpa bahan progres
+   pengerjaan TDPK. Datang tanpa bahan progres
    berarti pertemuan dijadwalkan ulang.
 2. **Semua file simulasi, skrip, dan data disimpan terdokumentasi dan dapat
    direproduksi ulang**, pada Google Drive yang bisa saya akses. Hasil yang
@@ -66,7 +66,7 @@ tidak merugikan Anda.
 
 1. **Penyaringan.** Saya menilai kelengkapan prasyarat, kualitas usulan topik,
    dan realisme rencana waktu Anda.
-2. **Keputusan dikirim via email** ke kedua anggota, diterima maupun tidak.
+2. **Keputusan dikirim via SITI** ke kedua anggota, diterima maupun tidak.
    Anda tidak perlu menunggu tanpa kabar.
 
 {{< alert "circle-info" >}}
