@@ -17,7 +17,7 @@ This direction designs and screens those configurations.
 
 ### What we work on
 
-- **Hydroprocessing of waste cooking oil** into renewable diesel and
+- **Hydroprocessing of various lipid feedstock** into renewable diesel and
   sustainable aviation fuel — reaction pathway selection, reactor
   configuration, and separation train design.
 - **Non-adiabatic and intensified reactor designs** for the
@@ -25,8 +25,7 @@ This direction designs and screens those configurations.
   drives both selectivity and utility cost.
 - **Electro-fuels (e-SAF)** — process design and techno-economic evaluation of
   routes driven by renewable electricity and captured carbon.
-- **Feedstock logistics for Indonesia** — what collection volumes and qualities
-  of waste cooking oil actually support a plant of a given capacity.
+
 
 ### Where it stands
 
