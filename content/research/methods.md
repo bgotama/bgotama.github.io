@@ -62,7 +62,7 @@ explicit about "best at what".
   population-based methods, producing Pareto fronts rather than a single answer
 - Single-objective and mixed-integer formulations where the problem allows
 - Surrogate-assisted optimization when each simulation evaluation is expensive
-- Decision support on the Pareto front: how to choose one point and defend it
+- Decision support on the Pareto front (multi-criteria decision making tools): how to choose one point and defend it
 
 ## 5. Assessment
 
@@ -90,8 +90,8 @@ Confirming the design can be operated.
 |---|---|
 | Process simulation | Aspen Plus, Aspen HYSYS, DWSIM |
 | Automation and optimization | Python, MATLAB |
-| Machine learning | Python (scikit-learn, PyTorch) |
-| Documentation and reproducibility | Git, Markdown, Jupyter |
+| Machine learning | Python |
+| Documentation and reproducibility | Git, Markdown |
 
 Tutorials on several of these are on
 [Course Materials](/course-materials/).
