@@ -23,6 +23,10 @@
   pageRef = "join"
   weight = 60
 [[main]]
+  name = "Pengajuan TA"
+  pageRef = "ta"
+  weight = 65
+[[main]]
   name = "Contact"
   pageRef = "contact"
   weight = 70
@@ -35,3 +39,7 @@
   name = "Join us"
   pageRef = "join"
   weight = 20
+[[footer]]
+  name = "Pengajuan TDPK"
+  pageRef = "ta"
+  weight = 30
