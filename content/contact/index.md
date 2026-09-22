@@ -6,10 +6,10 @@ showReadingTime: false
 ---
 
 - **Email:** bangkit.gotama@lecturer.itk.ac.id
-- **Office:** Institut Teknologi Kalimantan, Balikpapan, East Kalimantan, Indonesia
-- **Google Scholar:** [profile](https://scholar.google.com/citations?user=ZE3xwEcAAAAJ)
-- **ORCID:** [0000-0001-6992-6096](https://orcid.org/0000-0001-6992-6096)
-- **Scopus:** [author profile](https://www.scopus.com/authid/detail.uri?authorId=57222153180)
-- **LinkedIn:** [bangkit-gotama](https://id.linkedin.com/in/bangkit-gotama-a9665555)
+- **Office:** D303 (D Building), Institut Teknologi Kalimantan, Balikpapan, East Kalimantan, Indonesia [Office Hours : 12:00 - 16:00]
+- **Google Scholar:** [GScholar](https://scholar.google.com/citations?user=ZE3xwEcAAAAJ)
+- **ORCID:** [ORCID](https://orcid.org/0000-0001-6992-6096)
+- **Scopus:** [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222153180)
+- **LinkedIn:** [LinkedIn(https://id.linkedin.com/in/bangkit-gotama-a9665555)
 
 For prospective students, please see [Join us](/join/) first.
