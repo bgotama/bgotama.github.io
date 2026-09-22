@@ -94,7 +94,7 @@ Confirming the design can be operated.
 | Documentation and reproducibility | Git, Markdown |
 
 Tutorials on several of these are on
-[Course Materials](/course-materials/).
+[Course Materials](/tutorials/).
 
 ## Collaboration
 
