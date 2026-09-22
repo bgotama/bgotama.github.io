@@ -16,7 +16,7 @@ simulation, and optimization for low-carbon fuels and wastewater treatment.
 - Willingness to work openly and reproducibly
 
 ### How to apply
-Email **you@itk.ac.id** with:
+Email **bangkit.gotama@lecturer.itk.ac.id** with:
 
 1. A short paragraph on why you want to join and what interests you
 2. Your CV or transcript
@@ -24,8 +24,3 @@ Email **you@itk.ac.id** with:
 
 I read every email personally. Applications that show you've read this page and
 our research pages get my full attention.
-
-{{< alert "circle-info" >}}
-Prefer a structured form? A Google Form link can be added here later — it drops
-in as a single button without touching any code.
-{{< /alert >}}
