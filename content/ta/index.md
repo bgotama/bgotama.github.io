@@ -15,7 +15,7 @@ halaman ini sebelum mengisi formulir di bagian bawah.
 |---|---|
 | **Unit pengajuan** | Kelompok 2 orang |
 | **Kuota** | 4 kelompok per periode |
-| **Batas waktu** | 23 September 2026, 23.59 WITA |
+| **Batas waktu** | -Waktu telah berakhir- |
 | **Waktu pengisian** | ±15–25 menit |
 
 ## Tentang SITI
@@ -138,6 +138,13 @@ bersangkutan lebih dulu.
 Jawaban formulir masuk ke Google Spreadsheet yang hanya saya akses, dipakai
 semata-mata untuk seleksi pembimbingan. Jangan mencantumkan data pribadi yang
 tidak diminta.
+
+
+## Mahasiswa bimbingan TDPK Gasal 2026/2027 [NEW]
+1. Kristia Meysika dan Chelia Rahmadani Syukur 
+2. Firdaus Abrur Haqqi dan Rioarbitri Rajazah Pong Toban
+3. Marles Paelongan dan Nabila Azizah Agustine
+4. Ananda Salsabila dan Maisa Faheema Girsang
 
 ---
 
