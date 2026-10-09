@@ -40,5 +40,3 @@ print("Laju produk:", hasil)
 - Bungkus kode di atas dalam sebuah *loop* untuk menjelajah banyak nilai
 - Simpan hasilnya ke CSV untuk dianalisis
 - Gabungkan dengan pustaka optimasi untuk pencarian otomatis
-
-*Ini contoh tutorial. Ganti dengan materimu sendiri.*
